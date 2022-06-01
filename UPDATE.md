@@ -45,6 +45,54 @@ git reset --hard 833319d 来回到 833319d 对应的历史版本
     git reflog
     git reset --hard 'commit_id'
 
+----------------------
+
+at 2022年6月1日 18:56:35 Wednesday
+
+solve a problem:
+
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        "e \357\200\242git push\357\200\242 to publish your local commits)"
+        tatus
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+
+----------------------
+
+2022年6月1日 18:50:30 Wednesday
+
+flowing add sections:
+
+commit 3e9fd48d112f8c8d272178ed499f3eeb5217f47b (HEAD -> main, origin/main)
+Author: Anthony <9422677027@qq.com>
+Date:   Wed Jun 1 18:32:24 2022 +0800
+
+    The fourth update commit message, add contents>>UPDATE.md 6~9
+
+commit b154b366b8fcc56c3c7b817378526ba5653e6565
+Author: Anthony <9422677027@qq.com>
+Date:   Wed Jun 1 17:58:12 2022 +0800
+
+    add contents 6,8,9 and so on .
+
+commit 53507fc2ac6098dd9b686380c28d168e2064ee5d
+Author: Anthony <9422677027@qq.com>
+Date:   Wed Jun 1 16:54:40 2022 +0800
+
+    Second commit @ 2022年6月1日 16:54:32 周三 Wednesday
+
+commit 833319d698e6a1cf5a1a2638b8e1670f6120bd1c
+Author: 4th-August <942267027@qq.com>
+Date:   Mon May 30 17:16:30 2022 +0800
+
+    first commit
+:
 
 ----------------------
 
