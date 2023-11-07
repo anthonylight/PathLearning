@@ -9,25 +9,25 @@ CS50，哈佛公开课《计算机科学导论》, B站就有资源，自取~
 一、语言类  
 C 语言  
 《C程序设计语言》  
-《C和指针》 
-《高质量C编程指南》 
-《C专家编程》和《C陷阱与缺陷》有时间可以看
-《C 语言接口与实现》 
-C++ 
-《A Tour of C++》 
-《Accelerated C++》 
-《C++ primer》 
-《STL源码解析》 
-《Effective C++》 
-《深度探索C++对象模型》 
-《C++设计与演化》 
+《C和指针》  
+《高质量C编程指南》  
+《C专家编程》和《C陷阱与缺陷》有时间可以看  
+《C 语言接口与实现》  
+C++  
+《A Tour of C++》  
+《Accelerated C++》  
+《C++ primer》  
+《STL源码解析》  
+《Effective C++》  
+《深度探索C++对象模型》  
+《C++设计与演化》  
 
-一：语言类之C： 
-C primer plus 
-C 和指针 
-经典C程序100例 
+一：语言类之C：  
+C primer plus  
+C 和指针  
+经典C程序100例  
 
-二：语言类之C++： 
+二：语言类之C++：  
 C++ primer 
 effective C++ 
 more effective C++ 
