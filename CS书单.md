@@ -27,16 +27,16 @@ C primer plus
 C 和指针  
 经典C程序100例  
 
-二：语言类之C++：  
-C++ primer 
+二：语言类之C++：
+C++ primer
 
-effective C++ 
+effective C++
 
-more effective C++ 
+more effective C++
 
-C++对象模型 
+C++对象模型
 
-深入探索C++对象模型 
+深入探索C++对象模型
 
 
 三：算法和数据结构 
