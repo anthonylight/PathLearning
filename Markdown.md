@@ -20,7 +20,7 @@ $(document).ready(function () {
 [ mdLink ]: https://www.runoob.com/markdown/md-link.html 
 
 # 段落格式
-##脚注
+## 脚注
 脚注是对文本的补充说明。
 
 Markdown 脚注的格式如下:
