@@ -26,6 +26,8 @@ C语言
 [自学线路](https://csguide.cn/roadmap/method/cs_self_learning.html)
 
 [计算机技术书单](https://mp.weixin.qq.com/s/qsJ7vvYpZcUpRe8AIAUl_A)[https://mp.weixin.qq.com/s/qsJ7vvYpZcUpRe8AIAUl_A]
+那么怎么学？
+**看书 + 看视频 + 实践**
 
 CS学习核心课程
 大概是下面这些：
