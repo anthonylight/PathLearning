@@ -24,7 +24,9 @@ C语言
 
 
 [自学线路](https://csguide.cn/roadmap/method/cs_self_learning.html)
-[计算机技术书单][https://mp.weixin.qq.com/s/qsJ7vvYpZcUpRe8AIAUl_A](https://mp.weixin.qq.com/s/qsJ7vvYpZcUpRe8AIAUl_A)
+
+[计算机技术书单](https://mp.weixin.qq.com/s/qsJ7vvYpZcUpRe8AIAUl_A)[https://mp.weixin.qq.com/s/qsJ7vvYpZcUpRe8AIAUl_A]
+
 CS学习核心课程
 大概是下面这些：
 
