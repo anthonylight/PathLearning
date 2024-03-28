@@ -109,5 +109,6 @@ Qt-Nice-Frameless-Window：这是一个完美的自定义无边框窗口解决�
 Qt Material Design Desktop Widgets：这是一个 Material 风格控件库2。
 这些项目都是开源的，可以免费下载和使用。通过阅读和理解这些项目的源代码，你可以学习到很多实用的编程技巧和最佳实践。
 
-原文参考：https://zhuanlan.zhihu.com/p/408121090[[GitHub Top 10 + C 语言开源项目](https://zhuanlan.zhihu.com/p/408121090)]
-https://zhuanlan.zhihu.com/p/656004850{[14个开源Qt](https://zhuanlan.zhihu.com/p/656004850)}
+原文参考：
+https://zhuanlan.zhihu.com/p/408121090 [GitHub Top 10 C 语言开源项目](https://zhuanlan.zhihu.com/p/408121090)
+https://zhuanlan.zhihu.com/p/656004850 [14个开源Qt](https://zhuanlan.zhihu.com/p/656004850)
