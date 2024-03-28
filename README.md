@@ -94,3 +94,20 @@ CS学习核心课程
 链接: https://csguide.cn/roadmap/method/cs_self_learning.html#%E4%B8%80%E3%80%81%E6%8A%93%E4%BD%8F%E4%B8%BB%E7%BA%BF-%E7%AA%81%E5%87%BA%E9%87%8D%E7%82%B9
 来源: https://csguide.cn
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+
+以下是一些在 GitHub 上的 C 语言和 Qt 的开源项目，你可以通过阅读和修改这些项目的代码来提高你的编程技能：
+【C 语言项目】
+QSCTech/zju-icicles：这是一个浙江大学课程攻略共享计划，内容不止 C 语言，还包括 Java、操作系统、数据库、离散原理等等课程，特别适合大学生学习1。
+CNote：这是一份涵盖大部分学习 C 语言所需要掌握的核心知识，致力于打造最易懂的 C语言入门教程1。
+reading-code-of-nginx-1.9.2：这是一个 nginx-1.9.2 源码通读分析注释的项目，带详尽函数中文分析注释以及相关函数流程调用注释1。
+
+【Qt 项目】
+Qt-Advanced-Docking-System：这是一个完美的 Dock 窗口布局解决方案2。
+Qt-Advanced-Stylesheets：这是一个丰富的主题样式表2。
+Qt-Nice-Frameless-Window：这是一个完美的自定义无边框窗口解决方案2。
+Qt Material Design Desktop Widgets：这是一个 Material 风格控件库2。
+这些项目都是开源的，可以免费下载和使用。通过阅读和理解这些项目的源代码，你可以学习到很多实用的编程技巧和最佳实践。
+
+原文参考：https://zhuanlan.zhihu.com/p/408121090[[GitHub Top 10 + C 语言开源项目](https://zhuanlan.zhihu.com/p/408121090)]
+https://zhuanlan.zhihu.com/p/656004850{[14个开源Qt](https://zhuanlan.zhihu.com/p/656004850)}
